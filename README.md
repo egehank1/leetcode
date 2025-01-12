@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/egehank1/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/egehank1/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/egehank1/leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1086-divisor-game](https://github.com/egehank1/leetcode/tree/master/1086-divisor-game) |
 | [2556-convert-the-temperature](https://github.com/egehank1/leetcode/tree/master/2556-convert-the-temperature) |
 ## Sorting
 |  |
@@ -26,8 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/egehank1/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/egehank1/leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/egehank1/leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/egehank1/leetcode/tree/master/1086-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/egehank1/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
