@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/egehank1/leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/egehank1/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/egehank1/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/egehank1/leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/egehank1/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/egehank1/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/egehank1/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/egehank1/leetcode/tree/master/0856-consecutive-numbers-sum) |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/egehank1/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/egehank1/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Enumeration
 |  |
@@ -44,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/egehank1/leetcode/tree/master/1362-airplane-seat-assignment-probability) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/egehank1/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/egehank1/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/egehank1/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
